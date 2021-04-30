@@ -1,4 +1,12 @@
 # MultilayerSSL
+This repository contains the codes to our publication:
+
+K. Bergermann, M. Stoll and T. Volkmer
+Semi-supervised learning for aggregated multilayer graphs using diffuse interface methods and fast matrix vector products
+SIAM Journal on Mathematics of Data Science
+
+
+
 Multilayer-SSL-NFFT-Examples Version 2.0, 2020-10-07
 
 Multilayer-SSL-NFFT-Examples is a collection of MATLAB code that
