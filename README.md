@@ -1,13 +1,9 @@
 # MultilayerSSL
 This repository contains the codes to our publication:
 
-
-K. Bergermann, M. Stoll and T. Volkmer
-
-Semi-supervised learning for aggregated multilayer graphs using diffuse interface methods and fast matrix vector products
-
+K. Bergermann, M. Stoll and T. Volkmer\
+Semi-supervised learning for aggregated multilayer graphs using diffuse interface methods and fast matrix vector products\
 SIAM Journal on Mathematics of Data Science
-
 
 
 
