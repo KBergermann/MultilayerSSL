@@ -3,11 +3,11 @@ This repository contains the codes to our publication:
 
 K. Bergermann, M. Stoll and T. Volkmer\
 Semi-supervised learning for aggregated multilayer graphs using diffuse interface methods and fast matrix vector products\
-SIAM Journal on Mathematics of Data Science
+*SIAM Journal on Mathematics of Data Science*, 3(2):758-785, 2021.
 
 
 
-Multilayer-SSL-NFFT-Examples Version 2.0, 2020-10-07
+**Multilayer-SSL-NFFT-Examples Version 2.0, 2020-10-07**
 
 Multilayer-SSL-NFFT-Examples is a collection of MATLAB code that
 performs semi-supervised learning based on a diffuse interface approach 
@@ -114,13 +114,14 @@ for further information.
 
 REFERENCE
  [1] - Kai Bergermann, Martin Stoll, and Toni Volkmer. Semi-supervised Learning
-       for Multilayer Graphs Using Diffuse Interface Methods and Fast Matrix
-       Vector Products. Submitted, 2020.
-       Preprint available at https://arxiv.org/abs/2007.05239
+       for Aggregated Multilayer Graphs Using Diffuse Interface Methods and Fast
+       Matrix Vector Products.
+       *SIAM Journal on Mathematics of Data Science*, 3(2):758-785, 2021.
+       Available at https://doi.org/10.1137/20M1352028
 
- [2] - Dominik Alfke, Daniel Potts, Martin Stoll, Toni Volkmer - NFFT meets
+ [2] - Dominik Alfke, Daniel Potts, Martin Stoll, Toni Volkmer. NFFT meets
        Krylov methods: Fast matrix-vector products for the graph Laplacian of
-	   fully connected networks. Front. Appl. Math. Stat. 4:61, 2018.
+	   fully connected networks. *Front. Appl. Math. Stat*. 4:61, 2018.
 	   Available at http://dx.doi.org/10.1007/s00211-016-0861-7
 
 PREREQUISITES
