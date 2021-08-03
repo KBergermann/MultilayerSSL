@@ -1,4 +1,7 @@
 # MultilayerSSL
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5155200.svg)](https://doi.org/10.5281/zenodo.5155200)
+
 This repository contains the codes to our publication:
 
 K. Bergermann, M. Stoll and T. Volkmer\
